@@ -1,3 +1,4 @@
+##HERITAGE APP
 Smart India Hackathon 2024 - Problem Statement SIH-1648
 
 
@@ -15,11 +16,11 @@ First, run the development server:
 
 bash
 npm run dev
-# or
+#or
 yarn dev
-# or
+#or
 pnpm dev
-# or
+#or
 bun dev
 
 
