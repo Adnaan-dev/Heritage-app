@@ -21,7 +21,7 @@ npm run dev
 yarn dev
 ## or
 pnpm dev
-3# or
+## or
 bun dev
 
 
