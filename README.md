@@ -17,11 +17,11 @@ First, run the development server:
 
 bash
 npm run dev
-#or
+# or
 yarn dev
-#or
+# or
 pnpm dev
-#or
+# or
 bun dev
 
 
@@ -78,7 +78,7 @@ Solution Demo:
 You can access the live demo of the solution at: https://heritage-app-gamma.vercel.app/
 
 Team Members:
-1. Shayam Ahmad (Leader)
+1. Shayam Ahmad (Leader) - https://github.com/shayamahmad
 2. Mohammad Aakib Bhat - https://github.com/bhataakib02
 3. Haroon Iqbal - https://github.com/Haroon-89
 4. Jan Adnan Farooq - https://github.com/Adnaan-dev
